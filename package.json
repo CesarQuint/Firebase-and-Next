@@ -9,7 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@babel/core": "^7.21.0",
+    "@emotion/babel-preset-css-prop": "^11.10.0",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
     "@next/font": "13.1.6",
+    "babel-plugin-emotion": "^11.0.0",
     "next": "13.1.6",
     "react": "18.2.0",
     "react-dom": "18.2.0"
